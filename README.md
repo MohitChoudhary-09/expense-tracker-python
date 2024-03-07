@@ -32,7 +32,7 @@ Expense Tracker Python is a simple Python program designed to help you track you
 3. Run the program:
 
    ```bash
-   python expense_tracker.py
+   python expense-tracker-python.py
    ```
 
 ## Usage

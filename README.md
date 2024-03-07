@@ -56,7 +56,7 @@ Expense Tracker Python is a simple Python program designed to help you track you
 
 ## Screenshot
 
-![Expense Tracker Screenshot](screenshots/expense_tracker_screenshot.png)
+![Expense Tracker Screenshot](Screenshots/expense_tracker_screenshot.png)
 
 ## License
 
